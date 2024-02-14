@@ -14,9 +14,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var saatLabel: UILabel!
     @IBOutlet weak var gunLabel: UILabel!
     @IBOutlet weak var motivasyonLabel: UILabel!
-    @IBOutlet weak var backView2: UIView!
     @IBOutlet weak var copyButton: UIButton!
     @IBOutlet weak var shareButton: UIButton!
+    @IBOutlet weak var blurBackView2: UIView!
+    @IBOutlet weak var blurBackView: UIVisualEffectView!
     
     var motivasyonSozleri = [String]()
     
@@ -31,7 +32,9 @@ class ViewController: UIViewController {
         motiveSozler()
         
         geriSayim()
+        
     }
+    
     
     func geriSayim() {
         // İkinci tarih
