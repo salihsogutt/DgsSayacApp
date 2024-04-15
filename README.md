@@ -1,3 +1,3 @@
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/76944306/155149223-4c46dd70-bdd5-42ab-9a1b-328765d612dd.png" width="250" height="500" />
+<img src="https://github.com/salihsogutt/DgsSayacApp/assets/79975151/2128ac4a-b7d6-48f4-96ca-192367ab7da6.png" width="250" height="500" />
