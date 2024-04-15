@@ -1,3 +1,3 @@
 # Screenshots
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-15 at 15 31 22](https://github.com/salihsogutt/DgsSayacApp/assets/79975151/6046bac3-ad81-4458-8c47-9461f361bc93)
+<img src="https://user-images.githubusercontent.com/76944306/155149223-4c46dd70-bdd5-42ab-9a1b-328765d612dd.png" width="250" height="500" />
